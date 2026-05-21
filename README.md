@@ -60,11 +60,16 @@ Place and connect the following components:
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
+<img width="1280" height="961" alt="WhatsApp Image 2026-05-21 at 8 37 34 AM" src="https://github.com/user-attachments/assets/b972511d-30d3-4e54-b179-b1afcafba712" />
+
+<img width="1915" height="1071" alt="image" src="https://github.com/user-attachments/assets/ab9ed5e0-4bc7-4657-b564-48d62e79972b" />
+
 
 
 ---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
+Thus the Experiment was successfully completed and the output is verified
 
 
 
